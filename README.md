@@ -1,6 +1,6 @@
 # Description
 
-Iron Man Hud  Effect Using Turtle Python. Try to Draw Iron Man Helmet using some code and cordinates.
+Iron Man Hud  Effect Using Turtle Python. Try to Draw Iron Man Helmet using some code and cordinates. You can change coluou shape as you wish , with some basic knowledge of Python .
 
 
 # Screenshots
